@@ -1,0 +1,7 @@
+frameworkdesign\resources\ExtentReportNG.class
+frameworkdesign\AbstractComponents\ReusableMethod.class
+frameworkdesign\pageobjects\CartPage.class
+frameworkdesign\pageobjects\ProductCatalogue.class
+frameworkdesign\pageobjects\OrderPage.class
+frameworkdesign\pageobjects\CheckOutPage.class
+frameworkdesign\pageobjects\LandingPage.class
